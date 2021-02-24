@@ -1,3 +1,5 @@
-<p align="center">
-  <a href="https://discord.gg/codeus"><img src="https://cdn.discordapp.com/attachments/812717604732010526/813089924835442698/Codeus-v3.png"></a>
-</p>
+<div align="center">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vegasss&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
+  <br><br>
+</div>
