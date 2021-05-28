@@ -13,3 +13,18 @@ Merhabalar ben Vegas 2 yıldır discord adlı platformda bot yapıyorum ve bunun
 <a href="https://www.youtube.com/channel/UC-f15HY0CK-uQOR_MLg-EFg/featured" target="_blank"><img src="https://img.shields.io/badge/youtube-r89DA.svg?&color=ff0000&style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://www.npmjs.com/~vegasxd"><img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white"></a>
  </p>
+
+## Github (Vegas) Stats
+
+<p align = "center">
+ Profile tıklayan kişi sayısı:
+</p>
+<p align = "center">
+<img src="https://profile-counter.glitch.me/{Vegasss}/count.svg" />
+</p>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=thearkxd&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thearkxd&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
+</div>
