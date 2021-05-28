@@ -24,7 +24,7 @@ Merhabalar ben Vegas 2 yıldır discord adlı platformda bot yapıyorum ve bunun
 </p>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=thearkxd&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
+    <img src="https://github-readme-stats.vercel.app/api?username=vegasss&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thearkxd&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vegasss&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
 </div>
