@@ -1,6 +1,6 @@
 # Vegas.
 
-Merhabalar ben Vegas 2 yıldır discord adlı platformda bot yapıyorum ve bunun dışında birçok dil biliyorum bunlardan bazıları Pascal, Basic, C, C#, C++, R, Moo, Java, JavaScript, Cobol, Perl, PHP, Python, Css, Ada, Fortran, Typescript, Go, Delphi ve Swift' tir.
+Merhabalar ben Vegas 3 yıldır discord adlı platformda bot yapıyorum ve bunun dışında birçok dil biliyorum bunlardan bazıları Pascal, Basic, C, C#, C++, R, Moo, Java, JavaScript, Cobol, Perl, PHP, Python, Css, Ada, Fortran, Typescript, Go, Delphi ve Swift' tir.
 
 <p align = "center">
   Benimle iletişime geçebileceğiniz platformlar:
